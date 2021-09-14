@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-group{
+    align-items: center;
+    background-color: azure;
+    color: black;
+    flex: auto;
+}
